@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+} 
+h3 {
+    color: #55efc4;
+    text-align: center;
+}
+p {
+    color: #fdcb6e;
+}
+.project {
+    background-color: #e84393;
+    padding: 40px 50px;
+
+}
